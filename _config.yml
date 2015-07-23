@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               The Gymnasium Blog
 tagline:             blog
-description:         'News and updates from the Aquent Gymnasium</a>'
+description:         'News and updates from the <a href="#">Gymnasium</a>'
 url:                 http://thegymnasium.com
 baseurl:             ''
 paginate:            5
@@ -16,9 +16,8 @@ paginate:            5
 author:
   name:              Andrew Miller
   url:               https://twitter.com/andrewpmiller
-  url:               https://twitter.com/gymtweets
-
-  # can we put more urls in here?
+    
+    # can we put more urls in here?
   
   email:             amiller@aquent.com
 
